@@ -102,7 +102,7 @@ def main():
         get_prof(weapon_profs, 0),
         get_prof(weapon_profs, 2),
         get_prof(weapon_profs, 3),
-        get_prof(skill_profs, 0),
+        get_prof(skill_profs, 2),
         get_prof(skill_profs, 3),
     ]
 
